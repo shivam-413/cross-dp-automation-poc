@@ -1,0 +1,5 @@
+{
+  "consumer": "DS-TDA-Governance",
+  "provider": "DS_Digital_AB_Testing_Evaluation_LH",
+  "access": "dev_to_prod"
+}
